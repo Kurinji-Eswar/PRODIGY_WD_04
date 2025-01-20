@@ -16,7 +16,7 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 You can view the portfolio by opening the `index.html` file in your web browser. Simply double-click the `index.html` file, or use a live server extension if you're using a code editor like VSCode.
 
 ## Project Structure
-PRODIGY_WD_04/
+/PRODIGY_WD_04
 │
 ├── index.html
 ├── README.md
