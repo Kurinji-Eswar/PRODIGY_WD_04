@@ -3,7 +3,7 @@
 ## About the Project 
 This is my personal portfolio website showcasing my skills, projects, and contact information. It is designed to be responsive and user-friendly, providing an engaging experience for visitors.
 
-## Technologies Used The project is built using the following technologies: 
+## Technologies Used : 
 - HTML
 - CSS
 - JavaScript
